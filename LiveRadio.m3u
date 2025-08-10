@@ -1,37 +1,39 @@
-#EXTINF:-1 tvg-id="KBS 1Radio" tvg-country="KR" tvg-logo="https://i.ibb.co/qpYQDb3/KBS1-Radio.png" group-title="radio" radio="true",KBS 1Radio
+#EXTINF:-1 tvg-id="KBS 1라디오" tvg-country="KR" tvg-logo="https://i.ibb.co/qpYQDb3/KBS1-Radio.png" group-title="radio" radio="true",KBS 1라디오
 http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:-1 tvg-id="KBS Happy FM" tvg-country="KR" tvg-logo="https://i.ibb.co/vjn2YHL/KBSHappy-FM.png" group-title="radio" radio="true",KBS Happy FM
+#EXTINF:-1 tvg-id="KBS 해피 FM" tvg-country="KR" tvg-logo="https://i.ibb.co/vjn2YHL/KBSHappy-FM.png" group-title="radio" radio="true",KBS 해피 FM
 http://serpent0.duckdns.org:8088/kbs2radio.pls
-#EXTINF:-1 tvg-id="KBS Classic FM" tvg-country="KR" tvg-logo="https://i.ibb.co/0ZmLdmP/KBSClassic-FM.png" FM group-title="radio" radio="true",KBS Classic FM
+#EXTINF:-1 tvg-id="KBS 클래식 FM" tvg-country="KR" tvg-logo="https://i.ibb.co/0ZmLdmP/KBSClassic-FM.png" FM group-title="radio" radio="true",KBS 클래식 FM
 http://serpent0.duckdns.org:8088/kbsfm.pls
-#EXTINF:-1 tvg-id="KBS Cool FM" tvg-country="KR" tvg-logo="https://i.ibb.co/1n4G3W1/KBSCool-FM.png" group-title="radio" radio="true",KBS Cool FM
+#EXTINF:-1 tvg-id="KBS 쿨 FM" tvg-country="KR" tvg-logo="https://i.ibb.co/1n4G3W1/KBSCool-FM.png" group-title="radio" radio="true",KBS 쿨 FM
 http://serpent0.duckdns.org:8088/kbs2fm.pls
-#EXTINF:-1 tvg-id="MBC standard FM " tvg-country="KR" tvg-logo="https://i.ibb.co/WFF5J1V/MBCRadio.png" group-title="radio" radio="true",MBC Standard FM 
+#EXTINF:-1 tvg-id="MBC 표준 FM " tvg-country="KR" tvg-logo="https://i.ibb.co/WFF5J1V/MBCRadio.png" group-title="radio" radio="true",MBC 표준 FM 
 http://serpent0.duckdns.org:8088/mbcsfm.pls
 #EXTINF:-1 tvg-id="MBC FM4U" tvg-country="KR" tvg-logo="https://i.ibb.co/4jzfTZ4/MBCFM4U.png" group-title="radio" radio="true",MBC FM4U
 http://serpent0.duckdns.org:8088/mbcfm.pls
-#EXTINF:-1 tvg-id="MBC Alldate Music" tvg-country="KR" tvg-logo="https://i.ibb.co/4jzfTZ4/MBCFM4U.png" group-title="radio" radio="true",MBC MBC Alldate Music
+#EXTINF:-1 tvg-id="MBC 올댓뮤직" tvg-country="KR" tvg-logo="https://i.ibb.co/4jzfTZ4/MBCFM4U.png" group-title="radio" radio="true",MBC 올댓뮤직
 https://zstream.win/pls/mbc_chm.pls
-#EXTINF:-1 tvg-id="SBS Power FM" tvg-country="KR" tvg-logo="https://i.ibb.co/NL9pQRk/sbspowerfm.jpg" group-title="radio" radio="true",SBS Power FM
+#EXTINF:-1 tvg-id="SBS 파워 FM" tvg-country="KR" tvg-logo="https://i.ibb.co/NL9pQRk/sbspowerfm.jpg" group-title="radio" radio="true",SBS 파워 FM
 http://serpent0.duckdns.org:8088/sbsfm.pls
-#EXTINF:-1 tvg-id="SBS Love FM" tvg-country="KR" tvg-logo="https://i.ibb.co/WW6x4gK/sbslovefm.png" group-title="radio" radio="true",SBS Love FM
+#EXTINF:-1 tvg-id="SBS 러브 FM" tvg-country="KR" tvg-logo="https://i.ibb.co/WW6x4gK/sbslovefm.png" group-title="radio" radio="true",SBS 러브 FM
 http://serpent0.duckdns.org:8088/sbs2fm.pls
-#EXTINF:-1 tvg-id="CBS standard FM" tvg-country="KR" tvg-logo="http://img.cbs.co.kr/cbs/common/top/cbs_ci_main.gif" group-title="radio" radio="true",CBS Standard FM
+#EXTINF:-1 tvg-id="CBS 표준FM" tvg-country="KR" tvg-logo="http://img.cbs.co.kr/cbs/common/top/cbs_ci_main.gif" group-title="radio" radio="true",CBS 표준FM
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="CBS Music FM" tvg-country="KR" tvg-logo="http://img.cbs.co.kr/cbs/common/top/cbs_ci_main.gif" group-title="radio" radio="true",CBS Music FM
+#EXTINF:-1 tvg-id="CBS 음악FM" tvg-country="KR" tvg-logo="http://img.cbs.co.kr/cbs/common/top/cbs_ci_main.gif" group-title="radio" radio="true",CBS 음악FM
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CBS JOY4U" tvg-country="KR" tvg-logo="http://img.cbs.co.kr/cbs/common/top/cbs_ci_main.gif" group-title="radio" radio="true",CBS JOY4U
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Seoul FEBC" tvg-country="KR" tvg-logo="https://www.febc.org/wp-content/uploads/2022/03/Equal-Height-Transparent_BG_FEBC_Logo_Med_800x312_srgb.png" group-title="radio" radio="true",Seoul FEBC
+#EXTINF:-1 tvg-id="서울 FEBC" tvg-country="KR" tvg-logo="http://www.febc.net/omodule/images/layout/logo.gif" group-title="radio" radio="true",서울 FEBC
 http://mlive2.febc.net:1935/live/seoulfm/chunklist_w1167368890.m3u8
-#EXTINF:-1 tvg-id="Daejun FEBC" tvg-country="KR" tvg-logo="https://www.febc.org/wp-content/uploads/2022/03/Equal-Height-Transparent_BG_FEBC_Logo_Med_800x312_srgb.png" group-title="radio" radio="true",Daejun FEBC
+#EXTINF:-1 tvg-id="대전 FEBC" tvg-country="KR" tvg-logo="http://www.febc.net/omodule/images/layout/logo.gif" group-title="radio" radio="true",대전 FEBC
 http://mlive2.febc.net:1935/live/djlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Jeju FEBC" tvg-country="KR" tvg-logo="https://www.febc.org/wp-content/uploads/2022/03/Equal-Height-Transparent_BG_FEBC_Logo_Med_800x312_srgb.png" group-title="radio" radio="true",Jeju FEBC
+#EXTINF:-1 tvg-id="제주 FEBC" tvg-country="KR" tvg-logo="http://www.febc.net/omodule/images/layout/logo.gif" group-title="radio" radio="true",제주 FEBC
 http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8
-#EXTINF:-1 tvg-id="FEBC Cambodia" tvg-country="KH" tvg-logo="https://i.ibb.co/rMh57v1/febccam.png" group-title="radio" radio="true",FEBC Cambodia
-https://s14.myradiostream.com/10064/listen.mp3
 #EXTINF:-1 tvg-id="WOW CCM" tvg-country="KR" tvg-logo="https://wowccm.net/image/main/wowccm_logo.jpg" group-title="radio" radio="true",WOW CCM
 http://wowccm.iptime.org:8000/;
+#EXTINF:-1 tvg-id="FEBC Cambodia" tvg-country="KH" tvg-logo="https://i.ibb.co/rMh57v1/febccam.png" group-title="radio" radio="true",FEBC Cambodia
+https://s14.myradiostream.com/10064/listen.mp3
+#EXTINF:-1 tvg-id="WOWCCM" tvg-country="KH" tvg-logo="https://i.ibb.co/093RPR7/wowccm-logo.jpg" group-title="radio" radio="true",WOWCCM
+http://wowccm.iptime.org:8000
 #EXTINF:-1 tvg-id="Linn Radio" tvg-country="KH" tvg-logo="https://i.ibb.co/gy3VfHj/Linn-Radio.png" group-title="radio" radio="true",Linn Radio
 http://radio.linnrecords.com:8003/stream
 #EXTINF:-1 tvg-id="Linn Jazz" tvg-country="KH" tvg-logo="https://i.ibb.co/4JKdPZG/Linn-Jazz.png" group-title="radio" radio="true",Linn Jazz
