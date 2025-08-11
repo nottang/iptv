@@ -1,13 +1,59 @@
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="KoreaTV",KBS 1TV
+#EXTM3U
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="KoreaTV",KBS 1TV HD
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="KoreaTV",KBS 2TV
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="KoreaTV",KBS 2TV HD
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="SBS JIBS HD" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="KoreaTV",SBS JIBS HD
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="MBC HD 2" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD
+#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512" group-title="General",MBC TV HD
+http://www.hwado.net/webtv/catv/503_CFEA7803.php
+#EXTINF:-1 tvg-id="MBC HD 2" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 2
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC HD 3" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD2
+#EXTINF:-1 tvg-id="MBC HD 3" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 3
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="KoreaTV",SBS JIBS HD
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="KoreaTV",SBS KBC FullHD
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="KoreaTV",Channel A SD
+http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="KoreaTVl" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun HD(720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="KoreaTV",EBS 1 SD
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="KoreaTV",EBS 2 SD
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="KoreaTV",EBS E SD
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="KoreaTV",EBS kids SD
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="KoreaTV",EBS+ 1 SD
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="KoreaTV",EBS+ 2 SD
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="KoreaTV",KBS Drama SD
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="KoreaTV",KBS Joy SD
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="KoreaTV",KBS Kids SD
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="KoreaTV",KBS Life SD
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="KoreaTV",CGNTV South Korea FullHD
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="KoreaTV",ABN TV HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="WBCTV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="KoreaTV",WBC TV FullHD
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="KoreaTVs",Arirang TV fullHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific FullHD
+https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Asia HD
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV Asia Live Event HD
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://1.bp.blogspot.com/-7huubKhNu1M/XP-uSlRDo-I/AAAAAAAAIDQ/C9n8CgU8y3Uft5rSFEuDpMuuC2gfn7b9gCLcBGAs/s1600/bayon.jpg" group-title="KhmerTV",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNewsTV.kh" tvg-name="Fresh News TV" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="KhmerTV",Fresh News TV
@@ -36,5 +82,5 @@ https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Netlink TV" tvg-name="Netlink TV" tvg-country="KH" tvg-language="Cambodia" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="KhmerTV", Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+
