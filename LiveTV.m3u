@@ -5,15 +5,15 @@ http://mytv.dothome.co.kr/ch/public/1.php
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512" group-title="General",MBC TV HD
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
-#EXTINF:-1 tvg-id="MBC HD 2" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 2
+#EXTINF:-1 tvg-id="MBC HD" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC HD 3" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 3
+#EXTINF:-1 tvg-id="MBC HD 2" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 2
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS JIBS HD" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="KoreaTV",SBS JIBS HD
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="SBS KBC FullHD" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="KoreaTV",SBS KBC FullHD
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JTBC HD" tvg-logo="https://ibb.co/v4Qt04Xb" group-title="KoreaTV",JTBC HD
+#EXTINF:-1 tvg-id="JTBC HD" tvg-logo="https://nottang.github.io/iptv/jybc.jpg" group-title="KoreaTV",JTBC HD
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="KoreaTV",Channel A SD
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
