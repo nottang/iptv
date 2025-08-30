@@ -13,7 +13,7 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="SBS KBC FullHD" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="KoreaTV",SBS KBC FullHD
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JTBC HD" tvg-logo="https://nottang.github.io/iptv/jybc.jpg" group-title="KoreaTV",JTBC HD
+#EXTINF:-1 tvg-id="JTBC HD" tvg-logo="https://nottang.github.io/iptv/jtbc.jpg" group-title="KoreaTV",JTBC HD
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="KoreaTV",Channel A SD
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
