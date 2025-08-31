@@ -3,7 +3,7 @@
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="KoreaTV",KBS 2TV HD
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512" group-title="General",MBC TV HD
+#EXTINF:-1 tvg-id="MBCTV.kr" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC TV HD
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
 #EXTINF:-1 tvg-id="MBC HD" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
