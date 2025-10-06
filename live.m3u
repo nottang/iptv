@@ -3,7 +3,7 @@
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="KoreaTV",KBS 2TV HD
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512" group-title="General",MBC TV HD
+#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512" group-title="KoreaTV",MBC TV HD
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
 #EXTINF:-1 tvg-id="MBC HD 2" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 2
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
@@ -17,7 +17,7 @@ https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="KoreaTV",Channel A SD
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="KoreaTVl" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun HD(720p)
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="KoreaTV" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV Chosun HD(720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="KoreaTV",EBS 1 SD
@@ -46,7 +46,7 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="WBCTV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="KoreaTV",WBC TV FullHD
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="KoreaTVs",Arirang TV fullHD
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="KoreaTV",Arirang TV fullHD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -126,6 +126,7 @@ http://radio.linnrecords.com:8003/stream
 http://radio.linnrecords.com:8000/stream
 #EXTINF:-1 tvg-id="Linn Classical" tvg-country="KH" tvg-logo="https://i.ibb.co/tJGc8m5/Linn-Classic.png" group-title="radio" radio="true",Linn Classical
 http://radio.linnrecords.com:8004/stream
+
 
 
 
