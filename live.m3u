@@ -5,9 +5,7 @@ http://mytv.dothome.co.kr/ch/public/1.php
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512" group-title="KoreaTV",MBC TV HD
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
-#EXTINF:-1 tvg-id="MBC HD 2" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 2
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC HD 3" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 3
+#EXTINF:-1 tvg-id="MBC HD 3" tvg-country="KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KoreaTV",MBC HD 2
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS JIBS HD" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="KoreaTV",SBS JIBS HD
 http://123.140.197.22/stream/1/play.m3u8
@@ -126,6 +124,7 @@ http://radio.linnrecords.com:8003/stream
 http://radio.linnrecords.com:8000/stream
 #EXTINF:-1 tvg-id="Linn Classical" tvg-country="KH" tvg-logo="https://i.ibb.co/tJGc8m5/Linn-Classic.png" group-title="radio" radio="true",Linn Classical
 http://radio.linnrecords.com:8004/stream
+
 
 
 
